@@ -1,0 +1,6 @@
+{
+  "name": "LCM Construção — Portal de Fornecedores",
+  "description": "Portal corporativo de credenciamento de fornecedores, oferta de serviços de engenharia, envio de documentação de homologação e conformidade LGPD da LCM Construção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
